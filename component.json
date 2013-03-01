@@ -1,0 +1,11 @@
+{
+  "name": "Requirejs-backbone-bower-template",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "1.9.1",
+    "backbone-amd": null,
+    "underscore-amd": null,
+    "requirejs": null,
+    "requirejs-domready": null
+  }
+}
