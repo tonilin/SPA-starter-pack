@@ -1,0 +1,11 @@
+Require-Backbone-Bower-tpl
+==========================
+
+## How to use
+
+- bower install 
+- Set routing in ./js/routing.js
+- Define modules in ./js/modules
+- Set Depedency in ./build.js
+- r.js -0 build.js
+- Change js/main to js-build/main in index.html
