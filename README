@@ -1,5 +1,12 @@
-Require-Backbone-Bower-tpl
+SPA-starter-pack
 ==========================
+
+## Requirement
+
+- node.js
+- bower
+- require.js
+
 
 ## How to use
 
